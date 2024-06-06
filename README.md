@@ -1,3 +1,3 @@
 ![image](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/7f5756c0-a656-471b-8713-94c609544fb3)
 ![image](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/47dd883b-d9a8-4b90-8afc-75d6e16e7def)
-https://fatecspgov-my.sharepoint.com/:p:/r/personal/elielma_silva_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B38B83EE1-BD93-4048-B2A3-B3C9C017B560%7D&file=Apresenta%C3%A7%C3%A3o.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&login_hint=elielma.silva%40fatec.sp.gov.br&ct=1717717525305&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=ffea4c04-fa4e-4c05-bd8e-cd536f7bf3fe&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=a7b745f8-ca3c-45dc-b722-267f31d2c208
+file:///C:/Users/Fatec/Desktop/Apresenta%C3%A7%C3%A3o.pdf
