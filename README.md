@@ -7,3 +7,4 @@
 ![image](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/bd53a23a-34ca-4182-aaa9-fe5a1debfc9b)
 ![balancete](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/bbb4008e-91d2-483d-8033-4ef693dcd71b)
 ![paneta graficos](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/4cf49a38-402b-46bd-8a14-497c001f4d7c)
+![inutilizador csv](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/c731986d-fcc3-4bcf-b367-453db62775e4)
