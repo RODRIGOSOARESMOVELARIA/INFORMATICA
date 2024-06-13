@@ -9,3 +9,4 @@
 ![paneta graficos](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/4cf49a38-402b-46bd-8a14-497c001f4d7c)
 ![inutilizador csv](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/c731986d-fcc3-4bcf-b367-453db62775e4)
 ![graficos power bi](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/37461e66-e7a7-4d52-9a79-d3ae5b7f9ca2)
+![horario](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/9154da5e-45d3-43cb-a019-8a5c56015bb1)
