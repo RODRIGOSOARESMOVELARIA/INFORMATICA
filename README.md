@@ -3,3 +3,4 @@
 [ver apresentação completa](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/blob/main/Apresenta%C3%A7%C3%A3o.pdf)
 ![image](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/7dc65138-d893-446f-969f-b0535f8fd644)
 
+![image](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/8708c90a-a575-4195-9ddb-3e42057a77a2)
