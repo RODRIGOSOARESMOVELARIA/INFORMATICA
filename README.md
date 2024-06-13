@@ -2,5 +2,4 @@
 ![image](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/47dd883b-d9a8-4b90-8afc-75d6e16e7def)
 [ver apresentação completa](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/blob/main/Apresenta%C3%A7%C3%A3o.pdf)
 ![image](https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/assets/162647822/7dc65138-d893-446f-969f-b0535f8fd644)
-https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/blob/main/controle%20de%20horario.xlsx
-https://github.com/RODRIGOSOARESMOVELARIA/INFORMATICA/blob/main/controle%20de%20horario.xlsx
+
